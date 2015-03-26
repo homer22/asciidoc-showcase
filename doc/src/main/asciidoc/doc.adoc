@@ -20,8 +20,23 @@ toc::[]
 ===== Level 4
 ====== Level 5
 
+[cols="2", options="header"]
 == Tabellen
 |===
 | *Spalte 1* | *Spalte 2* |
 | Data | Data |
 |===
+
+[NOTE]
+====
+This is an example of an admonition block.
+
+Unlike an admonition paragraph, it may contain any AsciiDoc content.
+The style can be any one of the admonition labels:
+
+* NOTE
+* TIP
+* WARNING
+* CAUTION
+* IMPORTANT
+====
