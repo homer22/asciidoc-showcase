@@ -23,8 +23,8 @@ toc::[]
 [cols="2", options="header"]
 == Tabellen
 |===
-| *Spalte 1* | *Spalte 2* |
-| Data | Data |
+| *Spalte 1* | *Spalte 2*
+| Data | Data
 |===
 
 [NOTE]
