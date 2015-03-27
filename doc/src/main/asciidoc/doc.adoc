@@ -1,6 +1,5 @@
 = Titel des Dokumentes
 :toc:
-toc::[]
 
 == Listen
 
@@ -40,3 +39,9 @@ The style can be any one of the admonition labels:
 * CAUTION
 * IMPORTANT
 ====
+
+== Code
+[source, java]
+----
+System.out.println("Hello World!");
+----

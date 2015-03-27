@@ -25,9 +25,12 @@
                         </goals>
                         <configuration>
                             <backend>html5</backend>
-                            <!--attributes>
-                                    <stylesheet>foundation.css</stylesheet>
-                            </attributes-->
+                            <attributes>
+                                <!--stylesheet>foundation.css</stylesheet-->
+                                <attrirbute>
+                                    <theme>volnitsky</theme>
+                                </attrirbute>
+                            </attributes>
                         </configuration>
                     </execution>
                 </executions>

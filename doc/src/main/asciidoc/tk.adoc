@@ -1,0 +1,35 @@
+:bug: BS-1234
+:author: Sebastian Schleis
+
+= Technisches Konzept für {bug}
+{author}
+:toc:
+
+== Problem / Ist-Zustand
+Beschreibung
+
+== Lösung / Soll-Zustand
+Beschreibung
+
+=== Betrofene Artefakte
+
+==== Betrofene Klassen von Artefakt 1
+* Klasse1.java
+* Klasse2.java
+
+=== Betrofene Tabellen
+* Tabelle1
+** Spalte
+* Tabelle2
+** Drop
+
+=== Benötigte Zuarbeiten
+Neuer http://google.de[Service] von XXX
+
+
+== Aufwand
+[cols="4", options="header"]
+|===
+|Team|min|avg|max
+|FSD|0|8|15
+|===
